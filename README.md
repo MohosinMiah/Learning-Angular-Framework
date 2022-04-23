@@ -2,6 +2,13 @@
 
 1. Run `ng mew project-name` for create a new project
 
+## Creating Component
+
+We can use Angular CLI or create manually as commit 2
+
+'ng g c book' = Run this command for creating componant using Angular CLI
+what does above command means. g = generate , c = componant .
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
