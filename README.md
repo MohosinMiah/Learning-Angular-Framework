@@ -1,6 +1,6 @@
-# HelloWorld
+# Create a New Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+1. Run `ng mew project-name` for create a new project
 
 ## Development server
 
